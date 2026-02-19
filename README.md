@@ -67,6 +67,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishmalakif&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishmalakif&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishmalakif&theme=tokyonight" alt="Repos Per Language" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -77,26 +82,11 @@
 
 ---
 
-## ⏱️ WakaTime Stats
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishmalakif&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishmalakif&theme=tokyonight" alt="Activity Graph" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krishmalakif/krishmalakif/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
